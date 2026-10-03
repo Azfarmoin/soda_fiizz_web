@@ -1,0 +1,6 @@
+  {
+    "name": "soda-fizz-web",
+    "compatibility_date": "2026-10-03",
+    "assets": { "directory": "./dist" }
+  }
+  
